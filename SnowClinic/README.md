@@ -6,6 +6,6 @@ Test tasks for a virtual clinic
 
 AI Content Generation Bot for a Therapy Clinic.
 
-![Alt text](/SnowClinicPublisher/main.PNG)
+![Alt text](./SnowClinicPublisher/main.PNG)
 
 ## 2. SnowClinicAssistant

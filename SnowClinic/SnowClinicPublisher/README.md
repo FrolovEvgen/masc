@@ -53,11 +53,11 @@ I am the virtual assistant of Snow Therapy. I help you create warm, professional
 Share your idea or topic, and I will prepare a short, structured post ready for publication.
 ```
 
-see : [greeting.md](instructions/greeting.md)
+see : [greeting.md](./instructions/greeting.md)
 
 ## Prompt Design
 
-see : [directive.md](instructions/directive.md)
+see : [directive.md](./instructions/directive.md)
 
 ## Interaction Flow
 
@@ -80,9 +80,9 @@ This separation ensures human approval before persistence.
 
 ## ZAP Logic
 
-![Chat screen](/logic/zap_scheme.PNG)
+![Chat screen](./logic/zap_scheme.PNG)
 
-see : [ZAP Logic Details](/logic/README.md)
+see : [ZAP Logic Details](./logic/README.md)
 
 ## Example Use Case
 
