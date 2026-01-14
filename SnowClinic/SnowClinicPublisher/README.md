@@ -10,7 +10,7 @@ The bot transforms a simple content idea into a warm, professional post and save
 
 This case demonstrates practical prompt engineering, content safety constraints, and AI integration into a real business workflow.
 
-![Chat screen](./main.PNG)
+![Chat screen](./main.png)
 
 ## Business Context
 
@@ -80,7 +80,7 @@ This separation ensures human approval before persistence.
 
 ## ZAP Logic
 
-![Chat screen](./logic/zap_scheme.PNG)
+![Chat screen](./logic/zap_scheme.png)
 
 see : [ZAP Logic Details](./logic/README.md)
 
