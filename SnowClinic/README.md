@@ -6,6 +6,14 @@ Test tasks for a virtual clinic
 
 AI Content Generation Bot for a Therapy Clinic.
 
-![Alt text](./SnowClinicPublisher/main.png)
+![SnowClinicPublisher screen](./SnowClinicPublisher/main.png)
+
+see : [SnowClinicPublisher Details](./SnowClinicPublisher/README.md)
 
 ## 2. SnowClinicAssistant
+
+AI Intake & Pre-Consultation Chatbot for a Psychotherapy Clinic
+
+![SnowClinicAssistant screen](./SnowClinicAssistant/main.png)
+
+see : [SnowClinicPublisher Details](./SnowClinicAssistant/README.md)

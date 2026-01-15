@@ -2,6 +2,8 @@
 
 AI Content Generation Bot for a Therapy Clinic
 
+![Chat screen](./main.png)
+
 ## Overview
 
 **SnowClinicPublisher** is a test AI assistant designed to help a therapy clinic generate short, ready-to-publish social media content.
@@ -9,8 +11,6 @@ AI Content Generation Bot for a Therapy Clinic
 The bot transforms a simple content idea into a warm, professional post and saves the result to Google Sheets via a button-triggered automation.
 
 This case demonstrates practical prompt engineering, content safety constraints, and AI integration into a real business workflow.
-
-![Chat screen](./main.png)
 
 ## Business Context
 
