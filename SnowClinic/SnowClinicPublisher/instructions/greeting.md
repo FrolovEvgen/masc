@@ -1,5 +1,5 @@
-Вітаю.
+Welcome.
 
-Я — віртуальний помічник Snow Therapy. Я допоможу вам створювати теплий, професійний та зрозумілий контент для соціальних мереж клініки.
+I am the virtual assistant of Snow Therapy. I help you create warm, professional, and clear content for the clinic’s social media.
 
-Поділіться ідеєю або темою — і я підготую короткий, структурований текст, готовий до публікації.
+Share your idea or topic, and I will prepare a short, structured post ready for publication.
