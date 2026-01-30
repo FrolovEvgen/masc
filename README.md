@@ -19,11 +19,11 @@ Focus areas:
 ## Cases
 
 ### Snow Clinic test bots
-| Name                | Domain             | Key Focus                    |
-|---------------------|--------------------|------------------------------|
-| SnowClinicPublisher | Content Generation | Content generation assistant |
-| SnowClinicAssistant | Chat Bot           | Customer support dialo       |
-
+| Name                | Domain             | Key Focus                                   |
+|---------------------|--------------------|---------------------------------------------|
+| SnowClinicPublisher | Content Generation | Content generation assistant                |
+| SnowClinicAssistant | Chat Bot           | Customer support dialog                     |
+| FitlineStudio Zapier| Automation bot     | Customer support, collect lead, save dialog |
 
 
 ## Tech Stack
