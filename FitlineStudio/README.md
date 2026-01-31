@@ -1,8 +1,10 @@
 # Fit Line Studio Bots.
 
-Test tasks for a virtual clinic
+Test tasks for a fitness studio
 
-## 1. Zapier ChatBot v.1
+https://fitlife-studio.site/offer
+
+## 1. Zapier ChatBot 
 
 AI Business Chatbot with Zapier Automation
 
@@ -10,3 +12,8 @@ AI Business Chatbot with Zapier Automation
 
 see : [Zapier Chatbot Details](./Zapier/README.md)
 
+## 2. Chat Base bot.
+
+![ChatBase screen](./ChatBase/main.png)
+
+see : [ChatBase Details](./ChatBase/README.md)
