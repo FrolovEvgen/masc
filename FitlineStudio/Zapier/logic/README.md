@@ -14,7 +14,7 @@ The chatbot logic is designed around **lead generation**, **structured data coll
     - Pricing information
 - Encourages user interaction via predefined buttons
 
-see : [greeting.md](./instructions/greeting.md)
+see : [greeting.md](../instructions/greeting.md)
 
 ---
 
@@ -28,7 +28,7 @@ see : [greeting.md](./instructions/greeting.md)
 - Strict instruction hierarchy to avoid hallucinations
 - Controlled handoff rules to administrator
 
-see : [directive.md](./instructions/directive.md)
+see : [directive.md](../instructions/directive.md)
 
 ---
 
