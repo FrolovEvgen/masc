@@ -56,20 +56,16 @@ see : [directive.md](./instructions/directive.md)
 
 ```text
 [ User enters chat ]
-      |
-      v
+        ↓
 [ Assistant provides information / support ]
-      |
-      v
+        ↓
 [ User selects an option:
 - Contact me
 - Tell me about the clinic
 - How can I contact you? ]
-      |
-      v
+        ↓
 [ Assistant responds according to intent ]
-      |
-      v
+        ↓
 [ Contact details are requested only with explicit consent ]
 ```
 

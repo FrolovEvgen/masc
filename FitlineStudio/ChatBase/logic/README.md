@@ -8,13 +8,13 @@
 
 ![Files](./files.png)
 
-Add [fitline_calendar.txt](../../../FitlineStudio/Zapier/knowledge/fitlife-calendar.txt) from Zapier as source.
+Add calendar [fitline_calendar.txt](../../knowledge/fitlife-calendar.txt) .
 
 ### Text snippet
 
 ![Text](./text.png)
 
-Add text from [Busines Descriptions](../../../FitlineStudio/Zapier/knowledge/fitlife_business_description.md) .
+Add text from [Busines Descriptions](../../knowledge/fitlife_business_description.md) .
 
 ### Links
 
@@ -24,7 +24,7 @@ Add text from [Busines Descriptions](../../../FitlineStudio/Zapier/knowledge/fit
 
 ![Q&A](./qa.png)
 
-Add questions from [Top 15 Questions](../../../FitlineStudio/Zapier/knowledge/fitlife_top15_faq.md) .
+Add questions from [Top 15 Questions](../../knowledge/fitlife_top15_faq.md) .
 
 ## AI CONFIG
 

@@ -57,17 +57,13 @@ see : [directive.md](./instructions/directive.md)
 
 ```text
 [ User Idea ]
-      |
-      v
+        ↓
 [ AI Generator ]
-      |
-      v
+        ↓
 [ User Review ]
-      |
-      v
+        ↓
 [ Zap Button ]
-      |
-      v
+        ↓
 [ Google Sheets ]
 ```
 This separation ensures human approval before persistence.

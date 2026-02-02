@@ -87,26 +87,19 @@ If a user asks to speak with a human, the chatbot immediately provides administr
 
 ```text
 [ User expresses interest ]
-      |
-      v
+        ↓
 [ Confirm availability of free trial ]
-      |
-      v
+        ↓
 [ Collect name ]
-      |
-      v
+        ↓
 [ Collect phone number ]
-      |
-      v
+        ↓
 [ Ask preferred workout type ]
-      |
-      v
+        ↓
 [ Confirm data ]
-      |
-      v
+        ↓
 [ Notify administrator ]
-      |
-      v
+        ↓
 [ Save lead to Google Sheets ]
 ```
 
