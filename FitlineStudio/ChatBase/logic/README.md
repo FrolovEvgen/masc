@@ -101,7 +101,7 @@ Add calendar [fitline_calendar.txt](../../knowledge/fitlife-calendar.txt) .
 
 ![Text](./text.png)
 
-Add text from [Busines Descriptions](../../knowledge/fitlife_business_description.md) .
+Add text from [Business Descriptions](../../knowledge/fitlife_business_description.md) .
 
 ### Links
 
