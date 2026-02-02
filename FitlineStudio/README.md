@@ -17,3 +17,9 @@ see : [Zapier Chatbot Details](./Zapier/README.md)
 ![ChatBase screen](./ChatBase/main.png)
 
 see : [ChatBase Details](./ChatBase/README.md)
+
+## 3. Chipp.Ai bot.
+
+![ChippAi screen](./ChippAi/main.png)
+
+see : [ChippAi Details](./ChippAi/README.md)
