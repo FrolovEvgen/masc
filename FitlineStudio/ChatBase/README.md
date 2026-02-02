@@ -1,60 +1,88 @@
-# FitLife Studio – Chatbase AI Agent
+# FitLife Studio AI Agent
 
-## Overview
-This case demonstrates a **business-oriented AI agent built on Chatbase** for a fitness studio.
-
-![Chat screen](./playground.png)
-
-The agent is designed to:
-- Answer customer questions using uploaded knowledge
-- Collect leads and contact data
-- Drive users toward booking a **free trial session** (primary KPI)
-- Safely handle edge cases and handoff to a human administrator
-
-## Platform
-- **Tool:** Chatbase
-- **LLM:** GPT-style model
-- **Knowledge Sources:**
-    - Website links
-    - Business description
-    - Structured Q&A
-    - Custom system prompt
+AI Business Chatbot on Chatbase platform.
 
 ![Chat screen](./main.png)
 
-## Primary Business Goal
-**Convert conversations into free trial session bookings.**
+---
 
-Secondary goals:
+## Overview
+FitLife Studio AI Agent is a customer-facing AI assistant built on Chatbase for a fitness studio in Lviv, Ukraine.  
+The bot serves as a 24/7 virtual consultant that answers client questions, promotes studio services, and primarily converts new visitors into leads by booking free trial workouts.
+
+---
+
+## Business context
+FitLife Studio needed an automated solution to:
 - Reduce administrator workload
-- Provide consistent customer support
-- Collect structured lead data
+- Handle repetitive questions
+- Capture and qualify leads outside working hours
+- Increase trial workout bookings through conversational AI
 
-## Agent Design Highlights
-- Clear primary objective hierarchy
-- Button- and intent-driven flows
-- Strict safety and compliance rules
-- Explicit human handoff logic
-- Platform-aware behavior (Chatbase Q&A priority, confidence handling)
-- KPI-oriented dialog design
+The AI agent replaces the first line of communication while preserving a human handoff when required.
 
-## Key Flows
-- Free trial booking (name → phone → workout type)
-- Pricing and membership information
-- Beginner support and motivation
-- Callback request handling
-- Off-hours behavior
-- Escalation to administrator
+---
 
-## Prompt Design
+## Platform
+* **Industry**: Fitness / Wellness
+* **Platform**: Chatbase
+* **Primary Business Goal**:
+  - Increase free trial workout bookings and lead collection
+* **Secondary Goals**:
+  - Provide instant answers to FAQs
+  - Improve customer experience
+  - Route complex or sensitive requests to a human administrator
 
-see : [directive.md](./instructions/custom_prompt.md)
+---
+
+## Implemented Logic
+
+see : [README.md](./logic/README.md)
+
+---
+
+## Assistant Scope
+
+### Assistant Role
+- Acts as an official AI representative of FitLife Studio
+- Guides users toward a free trial workout (priority conversion flow)
+- Collects name, phone number, and preferred training type
+- Provides accurate information about pricing, schedules, services, and policies
+- Redirects users to an administrator when confidence is low or requests are complex
+
+### Style Guidelines
+- Friendly, motivating, and professional tone
+- Short, clear answers without overload
+- Empathy toward beginners
+- Limited emoji usage (1–2 per message)
+- Personalization using the client’s name when available
+
+### Safety & Business Rules
+- No medical, legal, or financial advice
+- No promises of guaranteed results
+- No competitor comparisons
+- No fabricated information
+- Mandatory handoff if information is missing or confidence score is low
+
+---
+
+## Key Skills Demonstrated
+- AI prompt engineering for business goals
+- Conversational UX design
+- Lead generation via chat
+- Knowledge base structuring (FAQ + website ingestion)
+- Safety and compliance constraints in AI agents
+- Human-in-the-loop escalation design
+
+---
 
 ## Why This Case Matters
-This project demonstrates how to design **production-ready AI agents** for real businesses, taking into account:
-- Platform constraints
-- Automation reliability
-- Safety boundaries
-- Conversion-focused UX
+This project demonstrates how a well-structured system prompt and knowledge base can turn a simple chatbot into a conversion-focused AI sales assistant without external integrations or custom code.
 
-It goes beyond prompt writing and shows **AI product design thinking**.
+---
+
+## Possible Extensions
+- CRM integration for automatic lead syncing
+- Analytics-based optimization of conversion flows
+- Multilingual support
+- Integration with booking or calendar systems
